@@ -1,4 +1,4 @@
-package com.concurrent.futureTest;
+package com.netty.futureTest;
 
 import java.util.concurrent.CompletableFuture;
 
